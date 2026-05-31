@@ -51,4 +51,9 @@ prompt
 
 server.log
 # Skills directory
-/skills/
+/skills/node_modules
+.next
+.env
+*.log
+.zscripts
+.prisma/client
